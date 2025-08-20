@@ -1,2 +1,1 @@
-# Casa-Verde
-#7DaysOfCode - Alura
+# Casa Verde
