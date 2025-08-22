@@ -1,5 +1,5 @@
-@import 'tailwindcss';
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import 'tailwindcss';
 
 
 :root {
@@ -10,7 +10,7 @@
 
   color-scheme: light dark;
   color: #202020;
-  background: url("../public/imgs/background-image.jpg") center center / cover;
+  background: url("/imgs/background-image.jpg") center center / cover;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
