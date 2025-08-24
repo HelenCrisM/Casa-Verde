@@ -4,7 +4,7 @@ import EmailInput from '../EmailInput';
 const AssinaturaNewsLetter: React.FC = () => {
   return (
     <div className="columns-2">
-      <div className="grid relative justify-items-start my-16 mx-32">
+      <div className="grid relative justify-items-start my-24 mx-48">
         <p className="text-[12px] opacity-50">Sua casa com as </p>
         <h1 className="font-['Elsie_Swash_Caps'] text-[82px] font-black my-4">
           melhores plantas
@@ -20,7 +20,7 @@ const AssinaturaNewsLetter: React.FC = () => {
         <img
           alt="Arvore"
           src="/imgs/hero-image.png"
-          className="relative h-140 w-auto"
+          className="relative h-160 w-auto"
         />
       </div>
     </div>
