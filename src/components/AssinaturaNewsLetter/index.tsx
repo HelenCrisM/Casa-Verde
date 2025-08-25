@@ -5,6 +5,7 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import ColoredBall from '../ColoredBall';
+import Ofertas from '../Ofertas';
 
 const AssinaturaNewsLetter: React.FC = () => {
   return (
@@ -66,7 +67,9 @@ const AssinaturaNewsLetter: React.FC = () => {
         </Card>
       </div>
 
-      <div className="m-10"></div>
+      <div className="mt-16">
+        <Ofertas />
+      </div>
     </>
   );
 };
