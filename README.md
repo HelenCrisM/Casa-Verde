@@ -11,36 +11,36 @@ Casa Verde é o projeto de desafio proposto no `7 Days of Code` da `Alura`.
 
 ## Screenshots
 
-![Screen Shot](https://user-images.githubusercontent.com/93036812/184509003-fd430155-b334-4e81-ab4d-4aad49a7b5e9.png)
+![Screen Shot](./src/assets/image.png)
 
 ## Para rodar em localhost
 
 Clone o projeto
 
 ```bash
-  git clone https://github.com/HelenCrisM/Casa-Verde.git
+git clone https://github.com/HelenCrisM/Casa-Verde.git
 ```
 
 Vá para o diretório
 
 ```bash
-  cd Casa-Verde
+cd Casa-Verde
 ```
 
 Instalar as dependências
 
 ```bash
-  npm install
+npm install
 ```
 
 Iniciar o servidor
 
 ```bash
-  npm run dev
+npm run dev
 ```
 
 Acesse no navegador
 
 ```bash
-  http://localhost:5174/
+http://localhost:5174/
 ```
